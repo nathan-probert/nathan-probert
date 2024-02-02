@@ -4,7 +4,7 @@
 🎓 I'm currently completing my Computer Science Honours degree at the University of Guelph, minoring in Business Economics<br>
 
 # 🤖 Recent Projects:
- - 🌐 [Portfolio Website]("https://nathanprobert.ca/home")
+ - 🌐 [Portfolio Website](https://nathanprobert.ca/home)
    - Mastered HTML, CSS, and JavaScript to architect and implement a responsive portfolio website
    - Leveraged npm for efficient package management, enhancing the project’s maintainability
    - Utilized React JavaScript library to build dynamic and high-performing user interface components
