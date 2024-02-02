@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on artificial neural networks for both image classification and predictive analysis<br>🌱 I’m currently learning full stack development including SQL, RESTful APIs, and deployment through AWS<br>
+# Hi, I'm Nathan Probert 👋:
+🔭 I’m currently working on artificial neural networks for both image classification and predictive analysis<br>
+🌱 I’m currently learning full stack development including SQL, RESTful APIs, and deployment through AWS<br>
 
 
 ## 🌐 Socials:
