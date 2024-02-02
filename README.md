@@ -8,16 +8,16 @@
    - Mastered HTML, CSS, and JavaScript to architect and implement a responsive portfolio website
    - Leveraged npm for efficient package management, enhancing the project’s maintainability
    - Utilized React JavaScript library to build dynamic and high-performing user interface components
- - 🏒 [Hockey Challenge Picker]("https://github.com/proby-8/tims-picker")
+ - 🏒 [Hockey Challenge Picker](https://github.com/proby-8/tims-picker)
    - Developed an AI application that determines players probability of scoring in the Tim Hortons NHL Hockey Challenge
    - Improved the accuracy rate from 26% to 34% by optimizing which statisitcs are taken into account
    - Created a robust webscraper to extract information and statistics on possible player picks
    - Used machine learning with TensorFlow, pandas and NumPy to build an AI model using multiple linear regression
- - 🔠 [Wordle Solving Bot]("https://github.com/proby-8/wordle-solver")
+ - 🔠 [Wordle Solving Bot](https://github.com/proby-8/wordle-solver)
    - Constructed a bot that analyzes a dictionary of possible words to solve the popular online game Wordle
    - Implemented a logical algorithm that formulates guesses crafted to eliminate the maximum number of alternatives
    - Created a comparison algorithm that dissects the ideal words and selects the word with the greatest popularity 
- - 🎵 [Multipurpose Discord Bot]("https://github.com/proby-8/discord-music-bot")
+ - 🎵 [Multipurpose Discord Bot](https://github.com/proby-8/discord-music-bot)
    - Developed a bot that utilizes FFmpeg to stream music in Discord voice channels with comprehensive playlist support
    - Integrated Spotify’s API to facilitate the importing of public Spotify playlists
    - Enhanced the bot with features such as tic-tac-toe against users or the bot itself, with decision-making powered by AI
