@@ -1,6 +1,6 @@
 # Hi, I'm Nathan Probert 👋:
 🔭 I’m currently working on artificial neural networks for both image classification and predictive analysis<br>
-🌱 I’m currently learning full stack development including SQL, RESTful APIs, and deployment through AWS<br>
+🌱 I’m currently further mastering my knowledge of full stack development including React, Python, SQL, RESTful APIs, and deployment through AWS<br>
 🎓 I'm currently completing my Computer Science Honours degree at the University of Guelph, minoring in Business Economics<br>
 
 # 🤖 Recent Projects:
@@ -8,12 +8,14 @@
    - Mastered HTML, CSS, and JavaScript to architect and implement a responsive portfolio website
    - Leveraged npm for efficient package management, enhancing the project’s maintainability
    - Utilized React JavaScript library to build dynamic and high-performing user interface components
- - 🏒 [Hockey Challenge Picker](https://github.com/proby-8/tims-picker)
-   - Developed an AI application that determines players probability of scoring in the Tim Hortons NHL Hockey Challenge
-   - Improved the accuracy rate from 26% to 34% by optimizing which statisitcs are taken into account
-   - Created a robust webscraper to extract information and statistics on possible player picks
+ - 🏒 [SmartScore - Predict NHL Goalscorers](https://github.com/proby-8/tims-picker)
+   - AI application designed for Tim Horton's Hockey Challenge, predicts players probability of scoring in a NHL game
    - Used machine learning with TensorFlow, pandas and NumPy to build an AI model using multiple linear regression
- - 🔠 [Wordle Solving Bot](https://github.com/proby-8/wordle-solver)
+   - Enhanced accuracy significantly by optimizing the AI model's metrics, elevating pick rate from 26% to 34%
+   - Actively implementing AWS Lambda functions to optimize serverless data collection and distribution
+   - Developed a Restful API to seamlessly integrate with full-stack applications, enhancing user experience
+   - Utilizes Draftkings API to provide precise recommendations for strategic betting decisions based on real-time data
+- 🔠 [Wordle Solving Bot](https://github.com/proby-8/wordle-solver)
    - Constructed a bot that analyzes a dictionary of possible words to solve the popular online game Wordle
    - Implemented a logical algorithm that formulates guesses crafted to eliminate the maximum number of alternatives
    - Created a comparison algorithm that dissects the ideal words and selects the word with the greatest popularity 
