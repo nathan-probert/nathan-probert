@@ -8,18 +8,18 @@
    - Mastered HTML, CSS, and JavaScript to architect and implement a responsive portfolio website
    - Leveraged npm for efficient package management, enhancing the project’s maintainability
    - Utilized React JavaScript library to build dynamic and high-performing user interface components
- - 🏒 [SmartScore - Predict NHL Goalscorers](https://github.com/proby-8/tims-picker)
+ - 🏒 [SmartScore - Predict NHL Goalscorers](https://github.com/nathan-probert/smartscore)
    - AI application designed for Tim Horton's Hockey Challenge, predicts players probability of scoring in a NHL game
    - Used machine learning with TensorFlow, pandas and NumPy to build an AI model using multiple linear regression
    - Enhanced accuracy significantly by optimizing the AI model's metrics, elevating pick rate from 26% to 34%
    - Actively implementing AWS Lambda functions to optimize serverless data collection and distribution
    - Developed a Restful API to seamlessly integrate with full-stack applications, enhancing user experience
    - Utilizes Draftkings API to provide precise recommendations for strategic betting decisions based on real-time data
-- 🔠 [Wordle Solving Bot](https://github.com/proby-8/wordle-solver)
+- 🔠 [Wordle Solving Bot](https://github.com/nathan-probert/wordle-solver)
    - Constructed a bot that analyzes a dictionary of possible words to solve the popular online game Wordle
    - Implemented a logical algorithm that formulates guesses crafted to eliminate the maximum number of alternatives
    - Created a comparison algorithm that dissects the ideal words and selects the word with the greatest popularity 
- - 🎵 [Multipurpose Discord Bot](https://github.com/proby-8/discord-music-bot)
+ - 🎵 [Multipurpose Discord Bot](https://github.com/nathan-probert/discord-music-bot)
    - Developed a bot that utilizes FFmpeg to stream music in Discord voice channels with comprehensive playlist support
    - Integrated Spotify’s API to facilitate the importing of public Spotify playlists
    - Enhanced the bot with features such as tic-tac-toe against users or the bot itself, with decision-making powered by AI
@@ -32,11 +32,11 @@
 
 # 📊 GitHub Stats:
 <!--
-![](https://github-readme-stats.vercel.app/api?username=proby-8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nathan-probert&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=proby-8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-probert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=proby-8&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nathan-probert&icon=0&color=10)](https://visitcount.itsvg.in)
 
