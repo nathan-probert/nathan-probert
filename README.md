@@ -1,10 +1,6 @@
 # Hi, I'm Nathan Probert 👋:
 
 ## 🤖 Recent Projects:
- - 🧠 [Imaginate](https://playimaginate.com/)
-   - Co-developed a full-stack image guessing game using React and Flask, aimed at helping users learn to spot differences between AI-generated and authentic images based on a daily theme
-   - Built a text-to-image generation pipeline leveraging Hugging Face Diffusers and PyTorch for creating lifelike images, automating prompt generation with LLaMA 3.1, and integrating MongoDB for streamlined data handling and storage
-   - Constructed a CI/CD pipeline with GitHub Actions and AWS CloudFormation to automatically build, test, and deploy AWS Lambda functions, reducing development cycle time by 50%
  - 🏒 [SmartScore - Predict NHL Goalscorers](https://nathanprobert.ca/smartscore)
    - AI application designed for Tim Horton's Hockey Challenge, predicts players probability of scoring in a NHL game
    - Used machine learning with TensorFlow, pandas and NumPy to build an AI model using multiple linear regression
@@ -12,14 +8,18 @@
    - Actively implementing AWS Lambda functions to optimize serverless data collection and distribution
    - Developed a Restful API to seamlessly integrate with full-stack applications, enhancing user experience
    - Utilizes Draftkings API to provide precise recommendations for strategic betting decisions based on real-time data
- - 🌐 [Portfolio Website](https://nathanprobert.ca/home)
-   - Built a responsive and dynamic portfolio website using Next.js, focusing on server-side rendering and seamless navigation.
-   - Leveraged npm for efficient package management, enhancing the project’s maintainability
-   - Utilized React JavaScript library to build dynamic and high-performing user interface components
+ - 🧠 [Imaginate](https://playimaginate.com/)
+   - Co-developed a full-stack image guessing game using React and Flask, aimed at helping users learn to spot differences between AI-generated and authentic images based on a daily theme
+   - Built a text-to-image generation pipeline leveraging Hugging Face Diffusers and PyTorch for creating lifelike images, automating prompt generation with LLaMA 3.1, and integrating MongoDB for streamlined data handling and storage
+   - Constructed a CI/CD pipeline with GitHub Actions and AWS CloudFormation to automatically build, test, and deploy AWS Lambda functions, reducing development cycle time by 50%
 - 🔠 [Wordle Solving Bot](https://github.com/nathan-probert/wordle-solver)
    - Constructed a bot that analyzes a dictionary of possible words to solve the popular online game Wordle
    - Implemented a logical algorithm that formulates guesses crafted to eliminate the maximum number of alternatives
    - Created a comparison algorithm that dissects the ideal words and selects the word with the greatest popularity 
+ - 🌐 [Portfolio Website](https://nathanprobert.ca/home)
+   - Built a responsive and dynamic portfolio website using Next.js, focusing on server-side rendering and seamless navigation.
+   - Leveraged npm for efficient package management, enhancing the project’s maintainability
+   - Utilized React JavaScript library to build dynamic and high-performing user interface components
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
